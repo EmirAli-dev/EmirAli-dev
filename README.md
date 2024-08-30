@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EmirAli-dev
+- 👀 I’m interested in Math, Geometry, software and technology
+- 🌱 I’m currently learning JavaScript
